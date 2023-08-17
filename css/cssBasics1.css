@@ -1,0 +1,70 @@
+/* Color and background color */
+/* h3 {
+    color: rgb(79, 79, 217);
+    background-color: gray;
+}
+
+p {
+    color: brown;
+    background-color: cornsilk;
+}
+
+button {
+    color: gold;
+    background-color: black;
+} */
+
+
+
+
+/* Practice Qs */
+/* h2 {
+    color: orange;
+}
+
+p {
+    background-color: black;
+    color: white;
+}
+
+button {
+    background-color: blue;
+    color: white;
+} */
+
+
+/* Text Property */
+/* h1 {
+    text-align: center;
+    text-decoration: red underline;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/* Practice Qs */
+h1 {
+    font-family: league spartan ;
+    color: #ffa511;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-decoration: teal double underline;
+    text-transform: uppercase; 
+}

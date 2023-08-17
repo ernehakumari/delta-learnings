@@ -1,0 +1,31 @@
+/* flex , flex-direction, justify-content, align-item */
+#container {
+    height: 600px;
+    width: 90%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center; */
+}
+
+h1 {
+    text-align: center;
+}
+
+/* #blue {
+    flex-basis: 150px; 
+    flex-grow: 2;
+} */
+
+#container div {
+    height: 100px;
+    width: 300px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}

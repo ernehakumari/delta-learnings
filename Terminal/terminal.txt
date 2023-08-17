@@ -1,0 +1,10 @@
+1. Terminal - A text input and output environement.
+2. Shell - An interpreter that executes commands in a terminal environment.
+3. Command Line Interface (CLI) - The interface between the user and computer system.
+
+
+
+
+
+
+
